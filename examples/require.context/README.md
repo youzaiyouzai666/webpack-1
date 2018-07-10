@@ -194,7 +194,7 @@ webpackContext.id = 4;
 
 ```
 Hash: acf02a400c4d02cc105a
-Version: webpack 3.5.1
+Version: webpack 3.6.0
     Asset     Size  Chunks             Chunk Names
 output.js  4.42 kB       0  [emitted]  main
 Entrypoint main = output.js
@@ -218,7 +218,7 @@ chunk    {0} output.js (main) 613 bytes [entry] [rendered]
 
 ```
 Hash: acf02a400c4d02cc105a
-Version: webpack 3.5.1
+Version: webpack 3.6.0
     Asset     Size  Chunks             Chunk Names
 output.js  1.08 kB       0  [emitted]  main
 Entrypoint main = output.js

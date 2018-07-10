@@ -306,7 +306,7 @@ webpackJsonp([1],[
 
 ```
 Hash: 1e92144469a06ecc61e5
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset       Size  Chunks             Chunk Names
 0.output.js  701 bytes    0, 1  [emitted]  my own chunk
 1.output.js  461 bytes       1  [emitted]  
@@ -330,7 +330,7 @@ chunk    {2} output.js (main) 452 bytes [entry] [rendered]
 
 ```
 Hash: 1e92144469a06ecc61e5
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset      Size  Chunks             Chunk Names
 0.output.js  72 bytes    0, 1  [emitted]  my own chunk
 1.output.js  52 bytes       1  [emitted]  

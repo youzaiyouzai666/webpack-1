@@ -11,9 +11,9 @@ module.exports = {
 		chunkFilename: "[chunkhash].js"
 	},
 	plugins: [
-		new webpack.optimize.CommonsChunkPlugin({
-			names: ["common", "manifest"]
-		})
+		// new webpack.optimize.CommonsChunkPlugin({
+		// 	names: ["common", "manifest"]
+		// })
 		/* without the "common" chunk:
 		new webpack.optimize.CommonsChunkPlugin({
 			name: "manifest"

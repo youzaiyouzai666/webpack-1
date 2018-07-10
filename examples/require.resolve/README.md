@@ -142,7 +142,7 @@ if(a == a2) throw new Error("Cache clear failed :(");
 
 ```
 Hash: 4ed342adc60583d992ab
-Version: webpack 3.5.1
+Version: webpack 3.6.0
     Asset     Size  Chunks             Chunk Names
 output.js  3.18 kB       0  [emitted]  main
 Entrypoint main = output.js
@@ -159,7 +159,7 @@ chunk    {0} output.js (main) 326 bytes [entry] [rendered]
 
 ```
 Hash: 4ed342adc60583d992ab
-Version: webpack 3.5.1
+Version: webpack 3.6.0
     Asset       Size  Chunks             Chunk Names
 output.js  599 bytes       0  [emitted]  main
 Entrypoint main = output.js

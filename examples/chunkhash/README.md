@@ -141,7 +141,7 @@ __webpack_require__.e/* import() */(0).then(__webpack_require__.bind(null, /*! .
 
 ```
 Hash: 49023fec553882c3285c
-Version: webpack 3.5.1
+Version: webpack 3.6.0
                   Asset       Size  Chunks             Chunk Names
 3db3fdaf96bbdadce99a.js  238 bytes       0  [emitted]  
 7c1138cf80dd374c367e.js  238 bytes       1  [emitted]  
@@ -176,7 +176,7 @@ chunk    {4} manifest.[chunkhash].js (manifest) 0 bytes [entry] [rendered]
 
 ```
 Hash: 49023fec553882c3285c
-Version: webpack 3.5.1
+Version: webpack 3.6.0
                   Asset       Size  Chunks             Chunk Names
 3db3fdaf96bbdadce99a.js   38 bytes       0  [emitted]  
 7c1138cf80dd374c367e.js   38 bytes       1  [emitted]  

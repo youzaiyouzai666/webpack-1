@@ -178,7 +178,7 @@ body{background:url(js/ce21cbdd9b894e6af794813eb3fdaf60.png)}.c{background:url(j
 
 ```
 Hash: b6d05f310264e74bb969
-Version: webpack 3.5.1
+Version: webpack 3.6.0
                                Asset       Size  Chunks             Chunk Names
                                 C.js    2.89 kB       2  [emitted]  C
 d090b6fba0f6d326d282a19146ff54a7.png  120 bytes          [emitted]  
@@ -260,7 +260,7 @@ Child extract-text-webpack-plugin ../../node_modules/extract-text-webpack-plugin
 
 ```
 Hash: 71684330ef0116733460
-Version: webpack 3.5.1
+Version: webpack 3.6.0
                                Asset       Size  Chunks             Chunk Names
                                 C.js  508 bytes       2  [emitted]  C
 d090b6fba0f6d326d282a19146ff54a7.png  120 bytes          [emitted]  

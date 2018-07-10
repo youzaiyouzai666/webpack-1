@@ -248,7 +248,7 @@ function add() {
 
 ```
 Hash: f5982ea38c08a86ed265
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset       Size  Chunks             Chunk Names
 0.output.js  484 bytes       0  [emitted]  
   output.js    7.36 kB       1  [emitted]  main
@@ -276,7 +276,7 @@ chunk    {1} output.js (main) 419 bytes [entry] [rendered]
 
 ```
 Hash: f5982ea38c08a86ed265
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset       Size  Chunks             Chunk Names
 0.output.js  147 bytes       0  [emitted]  
   output.js    1.69 kB       1  [emitted]  main

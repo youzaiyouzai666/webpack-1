@@ -131,7 +131,7 @@ function increment() {
 
 ```
 Hash: 0b2bf5443af50d14e1e0
-Version: webpack 3.5.1
+Version: webpack 3.6.0
            Asset     Size  Chunks             Chunk Names
 MyLibrary.umd.js  3.45 kB       0  [emitted]  main
 Entrypoint main = MyLibrary.umd.js
@@ -145,7 +145,7 @@ chunk    {0} MyLibrary.umd.js (main) 97 bytes [entry] [rendered]
 
 ```
 Hash: 0b2bf5443af50d14e1e0
-Version: webpack 3.5.1
+Version: webpack 3.6.0
            Asset       Size  Chunks             Chunk Names
 MyLibrary.umd.js  872 bytes       0  [emitted]  main
 Entrypoint main = MyLibrary.umd.js

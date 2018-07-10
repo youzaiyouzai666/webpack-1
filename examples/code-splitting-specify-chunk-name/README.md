@@ -269,7 +269,7 @@ module.exports = webpackAsyncContext;
 
 ```
 Hash: 9d034b3ada38a1291aa9
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset       Size  Chunks             Chunk Names
 0.output.js  444 bytes       0  [emitted]  chunk-foo
 1.output.js  450 bytes       1  [emitted]  chunk-bar-baz2
@@ -304,7 +304,7 @@ chunk    {3} output.js (main) 580 bytes [entry] [rendered]
 
 ```
 Hash: 9d034b3ada38a1291aa9
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset       Size  Chunks             Chunk Names
 0.output.js  117 bytes       0  [emitted]  chunk-foo
 1.output.js  116 bytes       1  [emitted]  chunk-bar-baz2

@@ -267,7 +267,7 @@ module.exports = (__webpack_require__(0))(1);
 
 ```
 Hash: 3e23dee019354f6a37c0873a025592bd40b1b4d6
-Version: webpack 3.5.1
+Version: webpack 3.6.0
 Child vendor:
     Hash: 3e23dee019354f6a37c0
         Asset     Size  Chunks             Chunk Names
@@ -310,7 +310,7 @@ Child app:
 
 ```
 Hash: 3e23dee019354f6a37c0873a025592bd40b1b4d6
-Version: webpack 3.5.1
+Version: webpack 3.6.0
 Child vendor:
     Hash: 3e23dee019354f6a37c0
         Asset       Size  Chunks             Chunk Names

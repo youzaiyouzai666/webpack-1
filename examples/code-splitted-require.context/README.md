@@ -282,7 +282,7 @@ module.exports = function() {
 
 ```
 Hash: f67ab883501eec17d2fb
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset     Size  Chunks             Chunk Names
 0.output.js  1.85 kB       0  [emitted]  
   output.js   6.3 kB       1  [emitted]  main
@@ -309,7 +309,7 @@ chunk    {1} output.js (main) 276 bytes [entry] [rendered]
 
 ```
 Hash: f67ab883501eec17d2fb
-Version: webpack 3.5.1
+Version: webpack 3.6.0
       Asset       Size  Chunks             Chunk Names
 0.output.js  544 bytes       0  [emitted]  
   output.js    1.49 kB       1  [emitted]  main

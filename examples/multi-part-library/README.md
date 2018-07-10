@@ -234,7 +234,7 @@ module.exports = "beta";
 
 ```
 Hash: e5033b72cf0ec9da1ad7
-Version: webpack 3.5.1
+Version: webpack 3.6.0
              Asset     Size  Chunks             Chunk Names
  MyLibrary.beta.js  3.06 kB       0  [emitted]  beta
 MyLibrary.alpha.js  3.05 kB       1  [emitted]  alpha
@@ -252,7 +252,7 @@ chunk    {1} MyLibrary.alpha.js (alpha) 25 bytes [entry] [rendered]
 
 ```
 Hash: e5033b72cf0ec9da1ad7
-Version: webpack 3.5.1
+Version: webpack 3.6.0
              Asset       Size  Chunks             Chunk Names
  MyLibrary.beta.js  759 bytes       0  [emitted]  beta
 MyLibrary.alpha.js  761 bytes       1  [emitted]  alpha

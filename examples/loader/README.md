@@ -261,7 +261,7 @@ Prints in node.js (`enhanced-require example.js`) and in browser:
 
 ```
 Hash: c15a21a2e67111e1cd94
-Version: webpack 3.5.1
+Version: webpack 3.6.0
     Asset     Size  Chunks             Chunk Names
 output.js  6.24 kB       0  [emitted]  main
 Entrypoint main = output.js
@@ -280,7 +280,7 @@ chunk    {0} output.js (main) 2.72 kB [entry] [rendered]
 
 ```
 Hash: 1848e785d8b4fe1c67d0
-Version: webpack 3.5.1
+Version: webpack 3.6.0
     Asset     Size  Chunks             Chunk Names
 output.js  1.48 kB       0  [emitted]  main
 Entrypoint main = output.js
